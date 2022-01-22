@@ -1,0 +1,5 @@
+Task 10: General command - javac {FILE_NAME}.java
+	 In my case - javac src/laba1/classes/task9/main/Main.java
+Task 11: General command - jar cfve {FILE_NAME}.jar {MAIN_CLASS_NAME} {FILE_NAME}.class
+	 In my case - jar cfve laba1/Main.jar laba1/classes/task9/main/Main 
+	 laba1/classes/task9/util/*.class laba1/classes/task9/main/Main.class
